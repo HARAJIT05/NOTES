@@ -18,3 +18,8 @@ a=5
 b=7
 a==b
 print(a+b)
+#SUM WITH ADDITION
+sum=0
+for i in range(1,5):
+	sum=sum+i
+	print(sum)
