@@ -8,3 +8,8 @@ print(c)
 #THIRD TYPE
 a,b=(5,7)
 print(a+b)
+#VALUE EXCHANGE 
+a=5
+b=7
+a=b
+print(a+b)
