@@ -18,7 +18,7 @@ a=5
 b=7
 a==b
 print(a+b)
-#SUM WITH ADDITION
+#SUM WITH THE HELP OF 'for' VARIABLE 
 sum=0
 for i in range(1,5):
 	sum=sum+i
